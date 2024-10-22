@@ -1,3 +1,5 @@
+# Um jogo de adivinhação onde a maquina "adivinha" um número e você tem que tentar acertar!
+
 import random
 
 computador = random.randint(0, 10)
